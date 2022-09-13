@@ -1,0 +1,278 @@
+{
+    "data": {
+        "trademarkList": [
+            {
+                "tmId": 1,
+                "tmName": "小米"
+            },
+            {
+                "tmId": 3,
+                "tmName": "华为"
+            },
+            {
+                "tmId": 2,
+                "tmName": "苹果"
+            },
+            {
+                "tmId": 390167,
+                "tmName": "关雨璇"
+            }
+        ],
+        "attrsList": [
+            {
+                "attrId": 106,
+                "attrValueList": [
+                    "安卓手机",
+                    "苹果手机"
+                ],
+                "attrName": "手机一级"
+            },
+            {
+                "attrId": 107,
+                "attrValueList": [
+                    "小米",
+                    "苹果",
+                    "华为"
+                ],
+                "attrName": "二级手机"
+            },
+            {
+                "attrId": 23,
+                "attrValueList": [
+                    "8G",
+                    "4G",
+                    "6G"
+                ],
+                "attrName": "运行内存"
+            },
+            {
+                "attrId": 24,
+                "attrValueList": [
+                    "128G",
+                    "256G"
+                ],
+                "attrName": "机身内存"
+            },
+            {
+                "attrId": 37,
+                "attrValueList": [
+                    "Java",
+                    "C#"
+                ],
+                "attrName": "分类"
+            },
+            {
+                "attrId": 113,
+                "attrValueList": [
+                    "个位大佬不要乱删数据"
+                ],
+                "attrName": "跪求"
+            },
+            {
+                "attrId": 13289,
+                "attrValueList": [
+                    "测试成功了"
+                ],
+                "attrName": "测试一下"
+            },
+            {
+                "attrId": 111,
+                "attrValueList": [
+                    "骁龙730G"
+                ],
+                "attrName": "CPU型号"
+            },
+            {
+                "attrId": 112,
+                "attrValueList": [
+                    "6.65-6.74英寸"
+                ],
+                "attrName": "屏幕尺寸"
+            },
+            {
+                "attrId": 13161,
+                "attrValueList": [
+                    "测试"
+                ],
+                "attrName": "12321"
+            }
+        ],
+        "goodsList": [
+            {
+                "id": 2653,
+                "defaultImg": "http://139.198.127.41:9000/sph/20220720/s1.jpg",
+                "title": "。。。",
+                "price": 0,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 2785,
+                "defaultImg": "http://139.198.127.41:9000/sph/20220721/bainiangudu.png",
+                "title": "是事实",
+                "price": 1,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 2790,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rfvmAHpFuAACTenfIJWo734.jpg",
+                "title": "发发",
+                "price": 2,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 2789,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklWAUJH9AACHXa0HPC8315.jpg",
+                "title": "发士大夫",
+                "price": 3,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 2804,
+                "defaultImg": "http://139.198.127.41:9000/sph/20220721/nature-9.jpg",
+                "title": "uuu",
+                "price": 10,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 2805,
+                "defaultImg": "http://139.198.127.41:9000/sph/20220721/nature-9.jpg",
+                "title": "uuu",
+                "price": 10,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 2155,
+                "defaultImg": "",
+                "title": "22",
+                "price": 22,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 4,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rgJqAHPnoAAF9hoDNfsc505.jpg",
+                "title": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 冰雾白 游戏智能手机 小米 红米",
+                "price": 999,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 2786,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaAPVqkAAEoiSa9WoM463.jpg",
+                "title": "txj",
+                "price": 1111,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": 6,
+                "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rgJqAHPnoAAF9hoDNfsc505.jpg",
+                "title": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米",
+                "price": 1299,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            }
+        ],
+        "total": 22,
+        "pageSize": 10,
+        "pageNo": 1,
+        "totalPages": 3
+    },
+    "ok": true
+}
